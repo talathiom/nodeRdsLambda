@@ -1,0 +1,33 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Test project using Node, RDS, AWS-LAMBDA",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node": "^18.20.2",
+    "watch": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talathiom/nodeRdsLambda.git"
+  },
+  "keywords": [
+    "AWS",
+    "LAMBDA",
+    "RDS",
+    "NODE",
+    "EXPRESSJS"
+  ],
+  "author": "Om Talathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talathiom/nodeRdsLambda/issues"
+  },
+  "homepage": "https://github.com/talathiom/nodeRdsLambda#readme"
+}
